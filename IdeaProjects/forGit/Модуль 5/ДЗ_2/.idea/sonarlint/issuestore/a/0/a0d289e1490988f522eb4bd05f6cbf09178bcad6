@@ -1,0 +1,21 @@
+
+T
+squid:S106n"9Replace this use of System.out or System.err by a logger.(ß‡Ç¶ùÿÿÿÿ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ã¨üışÿÿÿÿ
+?squid:S2388
+"(Prefix this call to "add" with "super.".(à•ƒÁ
+Qsquid:S1854"5Remove this useless assignment to local variable "x".(Â€¬ßùÿÿÿÿ
+Hsquid:S3599",Use another way to initialize this instance.(ÇˆÓ½üÿÿÿÿ
+usquid:S1171"YMove the contents of this initializer to a standard constructor or to field initializers.(ÇˆÓ½üÿÿÿÿ
+O
+squid:S1068"9Replace this use of System.out or System.err by a logger.(ƒ²³¥
+T
+squid:S106$"9Replace this use of System.out or System.err by a logger.(ĞÑêøÿÿÿÿ
+O
+squid:S106?"9Replace this use of System.out or System.err by a logger.(ƒ²³¥
+T
+squid:S106-"9Replace this use of System.out or System.err by a logger.(˜¡‹«şÿÿÿÿ
+?squid:S2388"(Prefix this call to "add" with "super.".(… Ã³
+?squid:S2388	"(Prefix this call to "add" with "super.".(•ë°°
+Bsquid:S1481"&Remove this unused "x" local variable.(Â€¬ßùÿÿÿÿ
